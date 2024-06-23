@@ -1,0 +1,1 @@
+ Voice can make apps more natural to interact with and more accessible . It unlocks a lot of use cases like language learning and voice assistance . We're also releasing the next version of our open-source speech recognition model, Whisper V3 today .
